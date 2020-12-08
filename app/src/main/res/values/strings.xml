@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="_0">2</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="price">Price</string>
+    <string name="initial_price">Total: $10</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="summary">order summary</string>
+    <string name="toppings">toppings</string>
+    <string name="toppping_1">Whipped Cream ($10 per serving)</string>
+    <string name="toppping_2">Chocolate ($20 per serving)</string>
+    <string name="hint">Fill Your Name</string>
+    <string name="autofill">XXX</string>
+</resources>
